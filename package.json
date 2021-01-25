@@ -1,0 +1,19 @@
+{
+  "name": "gamejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "netlify deploy -p",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnastasiaRiabova/gameJs.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnastasiaRiabova/gameJs/issues"
+  },
+  "homepage": "https://github.com/AnastasiaRiabova/gameJs#readme"
+}
